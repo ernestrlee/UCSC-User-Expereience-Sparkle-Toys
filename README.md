@@ -6,6 +6,6 @@ Sparkle Toys is a user experience design project utilizing user research methods
 
 
 # Contributors
-Ernest Lee
-Fikri F Derel
-Yong Fan
+Ernest Lee\
+Fikri F Derel\
+Yong Fan\
